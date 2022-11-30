@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:40:32.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="erGa56rBbuVrvFbeyV3E" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:41:55.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="i-hWvGqJ2QTWMsPC1INg" version="20.5.3" type="github">
   <diagram id="Or_mt1vvogf8F-5gZIKu" name="第 1 页">
     <mxGraphModel dx="1221" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,6 +258,15 @@
         </mxCell>
         <mxCell id="Cli_BWxOV95V0PnrJG-8-99" value="删除角色-功能关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="275" width="82" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Cli_BWxOV95V0PnrJG-8-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.645;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cli_BWxOV95V0PnrJG-8-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="346" as="sourcePoint" />
+            <mxPoint x="308" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cli_BWxOV95V0PnrJG-8-102" value="判断用户执行权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="448" width="82" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
