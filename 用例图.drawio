@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:37:54.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="bqJlm20OWchhEuQ_k_qF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:40:32.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="erGa56rBbuVrvFbeyV3E" version="20.5.3" type="github">
   <diagram id="Or_mt1vvogf8F-5gZIKu" name="第 1 页">
     <mxGraphModel dx="1221" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cli_BWxOV95V0PnrJG-8-57" value="修改功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551" y="638" width="82" height="62" as="geometry" />
+          <mxGeometry x="544" y="628" width="82" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Cli_BWxOV95V0PnrJG-8-58" value="删除功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="607" width="82" height="62" as="geometry" />
@@ -249,6 +249,15 @@
         </mxCell>
         <mxCell id="Cli_BWxOV95V0PnrJG-8-96" value="添加角色-功能关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="29" y="347" width="82" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Cli_BWxOV95V0PnrJG-8-98" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.289;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cli_BWxOV95V0PnrJG-8-89" target="Cli_BWxOV95V0PnrJG-8-99">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="212" y="404" as="sourcePoint" />
+            <mxPoint x="262" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cli_BWxOV95V0PnrJG-8-99" value="删除角色-功能关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="275" width="82" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
